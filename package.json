@@ -1,0 +1,16 @@
+{
+  "name": "product_catalog",
+  "version": "1.0.0",
+  "description": "get data from mongodb with nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "body-parser": "*",
+    "mongojs": "*"
+  }
+}
